@@ -41,6 +41,9 @@ li {
 .links:hover {
   background-color:blue;
 }
+img:hover {
+transform:scale(0.9);
+}
 h1{
   text-align:center;
 }
